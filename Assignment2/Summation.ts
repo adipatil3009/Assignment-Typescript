@@ -1,3 +1,5 @@
+//find sum of all array numbers
+
 var sum:number=0;
 var num:number=0;
 function summation(numbers):number{
@@ -7,6 +9,6 @@ function summation(numbers):number{
     return sum
 }
 
-var sumarr:number[]=[5,3,4,7,8,2]
+var sumarr:number[]=[5,3,7,8,2]
 num=summation(sumarr);
 console.log(num)

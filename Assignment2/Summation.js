@@ -1,3 +1,4 @@
+//find sum of all array numbers
 var sum = 0;
 var num = 0;
 function summation(numbers) {
@@ -6,6 +7,6 @@ function summation(numbers) {
     });
     return sum;
 }
-var sumarr = [5, 3, 4, 7, 8, 2];
+var sumarr = [5, 3, 7, 8, 2];
 num = summation(sumarr);
 console.log(num);

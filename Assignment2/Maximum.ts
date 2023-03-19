@@ -1,3 +1,5 @@
+//Finding maximum number form array
+
 //regalar array parameter
 function maximum1(numbers){
     let number1=1;

@@ -1,3 +1,4 @@
+//FInd Armstrong number
 function armst(a:number):boolean{
 
     var num:number=0;

@@ -1,3 +1,4 @@
+//Find Word in String 
 var pp:boolean;
 function wfind(a:string,w:string){
     var str=a.split(' ')
